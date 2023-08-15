@@ -1,5 +1,4 @@
 Servidor
-
 Primeira tentativa de realizar com servidor, conectando diretamente com o cliente.
 
 * Socket é uma biblioteca que fornece acesso de baixo nivel à interface de rede. O S.O fornece a API socket que relaciona o programa com a rede.
